@@ -1,8 +1,24 @@
 {
-	"name": "ccapdev-mc03",
-	"version": "1.0.0",
-	"keywords": ["util", "functional", "server", "client", "browser"],
-	"author": "Maku",
-	"contributors": [],
-	"dependencies": {}
+  "name": "ccapdev-mc03-answers",
+  "version": "1.0.0",
+  "description": "Mini Challenge 3 Answer for CCAPDEV1920T2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvention/ccapdev-mc03-answers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arvention/ccapdev-mc03-answers/issues"
+  },
+  "homepage": "https://github.com/arvention/ccapdev-mc03-answers#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.0",
+    "mongoose": "^5.9.7"
+  }
 }
